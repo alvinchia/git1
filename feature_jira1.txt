@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+feature
+feature1
+>>>>>>> feature/jira1
