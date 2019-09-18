@@ -2,4 +2,8 @@
 =======
 feature
 feature1
+<<<<<<< .merge_file_a03468
 >>>>>>> feature/jira1
+=======
+feature11
+>>>>>>> .merge_file_a29516
